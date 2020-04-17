@@ -94,7 +94,7 @@ body {
 }
 
 .button:hover {
-	color: #fff;
+	color: #367572;
 }
 
 .text-hidden {
@@ -189,7 +189,7 @@ body {
 
 .preview {
 	overflow: hidden;
-	background: #CECECE;
+	background: #FFFFFF;
 }
 
 .preview img {
@@ -230,7 +230,7 @@ body {
 	overflow-y: scroll;
 	width: 100%;
 	height: 100vh;
-	background: #CECECE;
+	background: #FFFFFF;
 	-webkit-overflow-scrolling: touch;
 }
 
@@ -269,6 +269,7 @@ body {
 .content h2 {
 	font-size: 3.5em;
 	font-weight: normal;
+	color: black;
 	margin: 0;
 }
 
@@ -282,6 +283,7 @@ body {
 .content p {
 	font-size: 1.25em;
 	line-height: 1.5;
+	color: black;
 }
 
 .content__item-img {
